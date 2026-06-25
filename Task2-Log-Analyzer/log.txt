@@ -1,0 +1,8 @@
+ERROR 404 /home
+ERROR 500 /payment
+ERROR 404 /login
+ERROR 403 /admin
+ERROR 500 /checkout
+ERROR 404 /profile
+ERROR 403 /dashboard
+ERROR 500 /order
